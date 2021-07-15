@@ -32,3 +32,6 @@ Nuestra casa de estudio donde nos forman en el ámbito profesional y personal.
 En este trabajo se realizó un breve taller práctico donde se  desarrolló la creación de una base de datos en Microsoft SQL Server, como la creación de tablas y la gestión de copia de seguridad (backup) de la base de datos.
 
 Para el desarrollo y manejo de la base de datos utilizamos la herramienta  Microsoft SQL Server.
+
+###  DESARROLLO
+![image](https://user-images.githubusercontent.com/55814963/125707932-e9c258dd-172f-495e-8c9d-566bdeafa3be.png)
