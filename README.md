@@ -34,4 +34,4 @@ En este trabajo se realizó un breve taller práctico donde se  desarrolló la c
 Para el desarrollo y manejo de la base de datos utilizamos la herramienta  Microsoft SQL Server.
 
 ###  DESARROLLO
-![image](https://user-images.githubusercontent.com/55814963/125707932-e9c258dd-172f-495e-8c9d-566bdeafa3be.png)
+![image](https://user-images.githubusercontent.com/55814963/125708010-0bcc339c-fe50-463e-a938-db0d59ba87f9.png)
